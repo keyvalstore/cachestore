@@ -1,13 +1,13 @@
-github.com/codeallergy/glue v1.1.0 h1:1+EKvwlSdHrYf332w2brxbpZQftdEQS6EKDiCLK6cw0=
-github.com/codeallergy/glue v1.1.0/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
+github.com/codeallergy/glue v1.1.4 h1:g1HWa3lJuSz24ufxUyaE+c0OZvlXEVbECzJe1GiRc4s=
+github.com/codeallergy/glue v1.1.4/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
-github.com/keyvalstore/store v1.3.0 h1:x84OdwUiiabtzhIc4yFP4ZSbE2DkKtHy2DSHJQIkVoM=
-github.com/keyvalstore/store v1.3.0/go.mod h1:GT6iXvg7Qh0kLCrFf+gpJELSeykPeL347a7BXP+2NPc=
+github.com/keyvalstore/store v1.3.1 h1:WWsAmj01WevcqhNKTNautiMPk2OfUkkaap21zX9rHUE=
+github.com/keyvalstore/store v1.3.1/go.mod h1:qXXCPUbFM6Bvtgk/rQG48mxuOWx1m3njpdu1/orA2ts=
 github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
 github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
